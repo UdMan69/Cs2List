@@ -9,6 +9,8 @@
 + Added a player visibility property
 + Fixes
 + Fixed aiming
++ ![image](https://github.com/user-attachments/assets/7b233f9d-3121-4ecb-ba1a-2dee31e3ed98)
+
 
 # V1 .0.0.0
 + Main

@@ -9,6 +9,7 @@
 + Added a player visibility property
 + Fixes
 + Fixed aiming
++ Added option to resize tabs
 + ![image](https://github.com/user-attachments/assets/7b233f9d-3121-4ecb-ba1a-2dee31e3ed98)
 
 

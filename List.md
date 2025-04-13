@@ -1,3 +1,4 @@
+
 # 1.0.0.2
 + Main
 + Added a setting to select a separate color for a visible enemy
@@ -8,9 +9,6 @@
 + Added a player visibility property
 + Fixes
 + Fixed aiming
-
-
-
 
 # V1 .0.0.0
 + Main
